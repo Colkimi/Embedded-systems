@@ -11,6 +11,7 @@ Wokwi simulation project link:
 [**Open Wokwi Simulation**](https://wokwi.com/projects/479688572481932289)
 
 **Sample setup**
+<img width="1770" height="1188" alt="image" src="https://github.com/user-attachments/assets/4b0fe147-b844-4c89-b9df-7c866f867ba3" />
 
 ## Hardware Requirements
 
