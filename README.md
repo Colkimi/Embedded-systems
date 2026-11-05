@@ -1,4 +1,4 @@
-# Internet of Things
+# Embedded systems
 
 A collection of small Arduino Uno projects for learning basic electronics,
 sensor input, output control, and LCD displays. Each project includes an
