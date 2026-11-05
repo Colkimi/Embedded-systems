@@ -1,4 +1,4 @@
-# PIR Motion Security System
+# PIR Motion Sensor System
 
 An Arduino Uno security-system example that detects motion with a PIR sensor,
 counts distinct motion events, and reports the system state on a 16×2 I2C LCD.
@@ -12,6 +12,9 @@ buzzer sounds.
 The simulation is useful for checking the alarm behavior before assembling the
 circuit. The PIR sensor may need a few seconds to settle when the simulation
 starts.
+
+## Sample setup
+<img width="1660" height="1132" alt="image" src="https://github.com/user-attachments/assets/4d671779-361f-4633-89bb-a77fa8e796e6" />
 
 ## Hardware requirements
 
