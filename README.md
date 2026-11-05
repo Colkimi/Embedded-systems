@@ -72,8 +72,3 @@ When adding an example:
 4. Include a Wokwi link when a simulation is available.
 5. Keep pin assignments and library names consistent between the sketch and
    its documentation.
-
-## License
-
-No license file is currently included in this repository. Add an appropriate
-license before redistributing the code.
